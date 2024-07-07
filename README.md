@@ -18,4 +18,4 @@ $ yolo predict model=yolov8n.pt source='https://ultralytics.com/images/bus.jpg'
 
 - 결과
 	
-	<img src="https://drive.google.com/file/d/15WBsKLWuBIIcO3M22eQoe_4e_4yKLov8/view?usp=sharing" width="500">
+	<img src="https://raw.githubusercontent.com/hugoMGSung/hungout-with-yolo/main/images/yolo001.jpg" width="450">
